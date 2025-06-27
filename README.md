@@ -1,6 +1,6 @@
 # RAG Project
 
-This portfolio demonstrates a full Retrieval Augmented Generation (RAG) pipeline implemented end-to-end. It showcases document ingestion and indexing, context retrieval, AI-driven response generation, and automated evaluation—all orchestrated through a clean command-line interface to highlight practical skills in AI integration and system design.
+This portfolio demonstrates a full Retrieval Augmented Generation (RAG) pipeline implemented end-to-end. It showcases document parsing and indexing, context retrieval, AI-driven response generation, and automated evaluation—all orchestrated through a clean command-line interface to highlight practical skills in AI integration and system design.
 
 ![rag-image](./rag-design-basic.png)
 
